@@ -1,11 +1,11 @@
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"Hola, soy Mirna Zuleyma Lemus Recinos  😄👋"</a></h2>
+<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">Hola, soy Mirna Zuleyma Lemus Recinos  😄👋</a></h2>
 
 	
 #### Actualmente soy estudiante de Desarrollo de Software en Kodigo y en la Escuela Superior Franciscana Especializada Agape👨‍💻 También estoy realizando un curso de Soporte de Tecnologías de la Información de Google
 
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture>Tecnologías
+<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">💻 Tecnologías </a></h2>
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
