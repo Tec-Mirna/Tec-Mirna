@@ -6,6 +6,9 @@
 
 
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">💻 Tecnologías </a></h2>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
