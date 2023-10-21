@@ -1,7 +1,6 @@
-### Hola, soy es Mirna Zuleyma Lemus Recinos 😄👋	
-	rosa
+<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"Hola, soy Mirna Zuleyma Lemus Recinos  😄👋"</a></h2>
 
-
+	
 #### Actualmente soy estudiante de Desarrollo de Software en Kodigo y en la Escuela Superior Franciscana Especializada Agape👨‍💻 También estoy realizando un curso de Soporte de Tecnologías de la Información de Google
 
 
