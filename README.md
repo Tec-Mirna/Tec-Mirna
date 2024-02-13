@@ -4,7 +4,7 @@
 #### Actualmente soy estudiante de Desarrollo de Software en Kodigo y en la Escuela Superior Franciscana Especializada Agape👨‍💻 También estoy realizando un curso de Soporte de Tecnologías de la Información de Google
 
 
-
+<div  align="center">
 <h2><a>💻 Tecnologías </a></h2>
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -13,6 +13,7 @@
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
         <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Java%20-%23E00033.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
     </div>
     <div style="flex: 1;">
         <h2>Frontend</h2>
@@ -28,9 +29,10 @@
        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
        <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
-       <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
+       <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
 
  </div>
+</div>
 </div>
 
 
