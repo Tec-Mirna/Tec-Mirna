@@ -1,10 +1,9 @@
-<h2>Hola, soy Mirna Zuleyma Lemus Recinos ☺️👋</h2>
 
-	
-#### Actualmente soy estudiante de Desarrollo de Software en Kodigo y en la Escuela Superior Franciscana Especializada Agape👨‍💻 También estoy realizando un curso de Soporte de Tecnologías de la Información de Google
+
 
 
 <div  align="center">
+<h2>Hi, I´m  Mirna Zuleyma Lemus Recinos ☺️👋</h2>
 <h2><a>💻 Tecnologías </a></h2>
 
 <div style="display: flex; flex-wrap: wrap;">
