@@ -35,6 +35,10 @@
        <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
  </div>
+   <div style="flex: 1;">
+        <h2>Databases</h2>
+         <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </div>
 </div>
 </div>
 
