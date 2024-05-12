@@ -4,6 +4,9 @@
 
 <div  align="center">
 <h2>Hi, I´m  Mirna Zuleyma Lemus Recinos ☺️👋</h2>
+   Soy una apasionada desarrolladora de software junior en constante crecimiento. Me encanta colaborar en proyectos creativos y aprender de mis compañeros. Siempre lista para enfrentar 
+   nuevos desafíos y contribuir con mi entusiasmo y energía.
+    ¡Lista para sumergirme en nuevos proyectos y crecer como profesional!"
 <h2><a>💻 Tecnologías </a></h2>
 
 <div style="display: flex; flex-wrap: wrap;">
